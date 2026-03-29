@@ -13,3 +13,6 @@ So, what are you waiting for?! Let's jump in and get started!
 This is a reference document. 
 If you can not find something open an issue. 
 If you want to request new documenation open an issue etc.
+
+## Quick Links
+[Laser Materials](./Laser_Materials.md)
