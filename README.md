@@ -8,3 +8,8 @@ However, **this documentation does not consistute your safety training**! Make s
 Instead, this resource is where you look up specific details, like what materials are allowed to be used in the laser cutters, how to clear a jammed 3D printer nozzle, or how to add a request to this documentation.
 
 So, what are you waiting for?! Let's jump in and get started!
+
+## How to Use This Document
+This is a reference documnet. 
+If you can not fine sommething open an issue. 
+If you want to request new documenation open an issue ext.
