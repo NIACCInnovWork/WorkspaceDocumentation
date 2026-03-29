@@ -11,5 +11,5 @@ So, what are you waiting for?! Let's jump in and get started!
 
 ## How to Use This Document
 This is a reference documnet. 
-If you can not fine sommething open an issue. 
-If you want to request new documenation open an issue ext.
+If you can not fine something open an issue. 
+If you want to request new documenation open an issue etc.
