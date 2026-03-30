@@ -11,7 +11,7 @@
 ## Banned Materials
 | Material | Danger | Cause/Consequence | 
 | --- | --- | --- | 
-| **PVC** Polyvinyl Chorlide. Common addative in materials like plether or artificial leather. | Toxic Chloring Gax | Besides the very real health risks, it will ruin the machine parts, causing the metal of the machine to corrode and ruin the motion control system.| 
+| **PVC** Polyvinyl Chloride. Common addative in materials like plether or artificial leather. | Toxic Chlorine Gas | Besides the very real health risks, it will ruin the machine parts, causing the metal of the machine to corrode and ruin the motion control system.| 
 | **Polycarbonate / Lexan** | Cuts very poorly, discolors, and catches fire.| Polycarbonate is often found as flat sheets of material. The window of the laser cutter is made of Polycarbonate because polycarbonate strongly absorbs infrared radiation. This is the frequency of light the laser cutter uses to cut materials, so it is very ineffective at cutting polycarbonate.|
 |**ABS** Acrylonitrile Butadiene Styrene | This common 3D printer material melts in the laser cutter. | ABS does not cut well in a laser cutter. It tends to metl rather than vaporize and has a higher chance of catching on fire and leaving behind metled gooey deposits on the vector cutting grid. It also doesn't engrave well.|
 | **HDPE** High Density Polyethylene | This material catches fire and melts. | HDPE melts and gets gooey rather than cleanly cutting.|
