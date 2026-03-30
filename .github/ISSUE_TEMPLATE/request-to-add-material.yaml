@@ -1,0 +1,49 @@
+name: "Request to Add Material to Approved Laser Materials"
+description: "Request review and approval of a new material for laser use."
+title: "[Material Request] "
+labels: ["laser-material-request"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Request to Add Material to Approved Laser Materials
+
+        Please fill out the details below as completely as possible.
+
+  - type: input
+    id: material
+    attributes:
+      label: Material
+      description: Name and type of the material (e.g., 3mm Birch Plywood, Acrylic, etc.).
+      placeholder: "e.g., 3mm Clear Cast Acrylic"
+    validations:
+      required: true
+
+  - type: input
+    id: max_thickness
+    attributes:
+      label: Max Thickness
+      description: Maximum thickness (in mm or inches) you propose for safe laser use.
+      placeholder: "e.g., 6 mm"
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Any relevant details (manufacturer, coatings, color, prior experience, etc.).
+      placeholder: "Add any extra context or technical details here."
+    validations:
+      required: false
+
+  - type: textarea
+    id: warnings
+    attributes:
+      label: Warnings
+      description: Known or suspected risks (fumes, flammability, residue, unknown composition, etc.).
+      placeholder: "List any safety concerns or things to watch out for."
+    validations:
+      required: false
