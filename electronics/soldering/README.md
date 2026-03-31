@@ -6,7 +6,7 @@ This electrical connection is formed by melting a conductive material (solder) t
 The soldering equipment is located on a table in the north east corner of the main workroom.
 TODO: include a map
 
-## Key Materials
+## Key Materials/Tools
 - Solder: The material that is melted and forms the electrical connection (solder joint).
 - Soldering Iron: A tool that is used to heat up the work piece **This gets vary hot (400C)**
 - Flux: A chemical that is used to clean the work piece in order to insure a strong connection. 
@@ -14,6 +14,7 @@ TODO: include a map
 - Desolder Braid: Copper wire braid that solder likes to stick to. Used to remove solder from a solder joint.
 - Brass Wool: Used to clean the soldering iron.
 - Helping Hands: Adjustable "arms" that can be used to hold a work piece.
+- Fume Extractor: Filters and removes some of the harmful fumes generated when soldering.
 
 ## Instructional Video
 [How to solder](https://youtu.be/jz67KgHzXVw?si=aL7bk_ATckGAEahw&t=441)
