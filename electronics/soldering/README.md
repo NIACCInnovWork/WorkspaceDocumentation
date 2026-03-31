@@ -1,6 +1,6 @@
 # Soldering
-Soldering use to from an electrical connection between two pieces of mettle.
-This electrical connection is formed by melting a conductive material to bridge the two pieces of mettle
+Soldering is use to from an electrical connection.
+This electrical connection is formed by melting a conductive material (solder) to "glue" the two pieces together.
 
 ## Location in the Workspace.
 The soldering equipment is located on a table in the north east corner of the main workroom.
@@ -12,7 +12,7 @@ TODO: include a map
 - Flux: A chemical that is used to clean the work piece in order to insure a strong connection. 
     Note: Flux can be applied separately, however most solder also include some flux.
 - Desolder Braid: Copper wire braid that solder likes to stick to. Used to remove solder from a solder joint.
-- Brass wire cleaner: Used to clean the soldering iron.
+- Brass Wool: Used to clean the soldering iron.
 - Helping Hands: Adjustable "arms" that can be used to hold a work piece.
 
 ## Instructional Video
