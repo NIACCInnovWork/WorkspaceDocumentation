@@ -7,7 +7,7 @@ NOTE: This is only an electrical connection, If you expect mechanical strain, ad
 
 ## Location in the Workspace.
 The soldering equipment is located on a table in the north east corner of the main workroom.
-![electronics map](../../assets/electronics table.png)
+![electronics map](../../assets/electronics_table.png)
 
 ## Key Materials/Tools
 - Solder: The material that is melted and forms the electrical connection (solder joint).
