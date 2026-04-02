@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="864.86487"
+   height="864.86487"
+   viewBox="0 0 864.86487 864.86487"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch1">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g1">
+    <image
+       width="864.86487"
+       height="864.86487"
+       preserveAspectRatio="none"
+       xlink:href="NIACC_Innovation_Workspace_Floorplan_Room_Labels.png"
+       id="image1" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:2.44222;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="90.724815"
+       height="62.981598"
+       x="268.85974"
+       y="134.96855" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Caladea;-inkscape-font-specification:'Caladea, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="273.81354"
+       y="159.22198"
+       id="text3"><tspan
+         id="tspan3"
+         x="273.81354"
+         y="159.22198">electronics</tspan><tspan
+         x="273.81354"
+         y="180.88861"
+         id="tspan4"> table</tspan></text>
+  </g>
+</svg>
