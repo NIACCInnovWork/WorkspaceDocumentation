@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="864.86487"
+   height="864.86487"
+   viewBox="0 0 864.86487 864.86487"
+   sodipodi:docname="electronics table.png"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="288.28829"
+       y="143.54103"
+       width="32.568133"
+       height="33.77436"
+       id="rect2" />
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.82903125"
+     inkscape:cx="432.43243"
+     inkscape:cy="432.43243"
+     inkscape:window-width="1556"
+     inkscape:window-height="926"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="864.86487"
+       height="864.86487"
+       preserveAspectRatio="none"
+       xlink:href="NIACC_Innovation_Workspace_Floorplan_Room_Labels.png"
+       id="image1" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:2.44222;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="90.724815"
+       height="62.981598"
+       x="268.85974"
+       y="134.96855" />
+    <text
+       xml:space="preserve"
+       id="text2"
+       style="fill:#f9f9f9;writing-mode:lr-tb;text-orientation:auto;direction:ltr;stroke:#ffffff;stroke-opacity:1;stroke-width:1;stroke-dasharray:none;-inkscape-font-specification:'Caladea, Normal';font-family:Caladea;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333397px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Caladea;-inkscape-font-specification:'Caladea, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="273.81354"
+       y="159.22198"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="273.81354"
+         y="159.22198">electronics</tspan><tspan
+         sodipodi:role="line"
+         x="273.81354"
+         y="180.88861"
+         id="tspan4"> table</tspan></text>
+  </g>
+</svg>
