@@ -28,10 +28,11 @@ The soldering equipment is located on a table in the north east corner of the ma
 Once certified you can use the equipment without being supervised.
 ### Steps
 1) Log into Canvas.
-1) Complete the Soldering Certification Quiz.
+1) Complete the Soldering Certification Quiz
+1) Review the Soldering Certification Practical Requirements
 1) Schedule the Soldering Certification Practical
 1) Complete the Soldering Certification Practical
-    1) Demonstrate you can safely use the equipment.
+    1) Demonstrate you can safely use the equipment
     1) Solder the hello world circuit.
-    1) Desolder the hello world circuit.
+    1) Desolder the [hello world circuit](./button-led.md).
     1) Solder two wires together.
