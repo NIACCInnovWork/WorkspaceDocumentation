@@ -16,3 +16,7 @@
 | **Polycarbonate / Lexan** | Cuts very poorly, discolors, and catches fire.| Polycarbonate is often found as flat sheets of material. The window of the laser cutter is made of Polycarbonate because polycarbonate strongly absorbs infrared radiation. This is the frequency of light the laser cutter uses to cut materials, so it is very ineffective at cutting polycarbonate.|
 |**ABS** Acrylonitrile Butadiene Styrene | This common 3D printer material melts in the laser cutter. | ABS does not cut well in a laser cutter. It tends to metl rather than vaporize and has a higher chance of catching on fire and leaving behind metled gooey deposits on the vector cutting grid. It also doesn't engrave well.|
 | **HDPE** High Density Polyethylene | This material catches fire and melts. | HDPE melts and gets gooey rather than cleanly cutting.|
+| **PolyStyrene Foam**  | Catches fire  | It catches fire, it melts and only thin pieces cut. **This is the #1 material that causes laser fires!|
+| **PolyPropylene Foam**| Catches fire  | Catches fire 	Like PolyStyrene, it melts, catches fire, and the melted drops continue to burn and turn into rock-hard drips and pebbles.|
+| **Fiberglass** | Emits fumes |It's a mix of two materials that can’t be cut on a CO2 laser cutter. Glass and epoxy resin (fumes).|
+| **Coated Carbon Fiber** | Emits noxious fumes | A mix of two materials. Thin carbon fiber mat can be cut, with some fraying - but not when coated.|
