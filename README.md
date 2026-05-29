@@ -16,3 +16,5 @@ If you want to request new documenation open an issue etc.
 
 ## Quick Links
 [Laser Materials](./Laser_Materials.md)
+[Usage Submission Form](https://forms.office.com/Pages/ResponsePage.aspx?id=4x2x_5vDwkmnqVWmabSoAFh0QkOXwUZLniDZvrhdjKBUQ0NDUjVPQU43U042WDRKWUVLS0JQQVpGRyQlQCN0PWcu) 
+[Pricing Calculator](https://docs.google.com/spreadsheets/d/1oW6lBXUUOI8lfFPfMIwn4ZXmQ6t69eetJ-jwG5oy69E/edit?gid=2120062286#gid=2120062286)
