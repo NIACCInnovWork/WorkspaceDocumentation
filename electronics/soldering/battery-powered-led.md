@@ -1,4 +1,4 @@
-# Controlling a Led with a Button.
+# Powering an LED with a Battery.
 Goal: This is intended to be your first simple circuit.
 ```mermaid
 graph TD
