@@ -3,7 +3,7 @@ Soldering is use to from an electrical connection.
 This electrical connection is formed by melting a conductive material (solder) to "glue" the two pieces together.
 
 
-NOTE: This is only an electrical connection, If you expect mechanical strain, add additional [[glossary#Strain Relief]]
+NOTE: This is only an electrical connection, If you expect mechanical strain, add additional [Strain Relief](../../glossary.md#Strain Relief)
 
 ## Location in the Workspace.
 The soldering equipment is located on a table in the north east corner of the main workroom.
