@@ -83,7 +83,7 @@ This [Issues](#issue)/[Pull Request](#pull-request) has been resolved/dealt with
 - Duplicate
     Link to what it is a duplicate of. 
     Example: Five people opening issues about the same typo.
-- Wontfix / Invalid
+- Won't Fix / Invalid
     List reason for why it is not done.
     Examples: Not in line with Workspace goals/mission statement. Not worth the time/money required to implement.
 - Stale/Abandoned
