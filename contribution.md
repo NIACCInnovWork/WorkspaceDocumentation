@@ -8,6 +8,7 @@ There are many ways of helping out for example:
 - Documenting project tutorials 
 - Help write trainings 
 - Help review trainings
+
 ## Documentation Initiate Goals
 - Provide high quality documentation for our members.
 - Encourage sense of community ownership (creating opportunities for people to contribute to the space.)
@@ -15,6 +16,7 @@ There are many ways of helping out for example:
     - It should be easy to fix typos, confusing wording, outdated/deprecated procedures.
     The Makerspace is a living dynamic place with new things being added/created all the time. 
     This requires our documentation to be equally accommodating to change.
+
 ## Key Technologies
 ### Markdown
 Markdown is a simple file format. The raw file format only contains text (no formatting).
@@ -36,6 +38,7 @@ Git allows us to:
 - Track work that needs to be done (Issues) 
 - Track work in progress (Pull requests)
 - Hosts the content online in a publicly accessible place.
+
 ## Key Terms
 ### Issue
 **A description of a problem.**
