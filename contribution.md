@@ -105,7 +105,7 @@ Normal Volunteer (you unless you have been specificity told otherwise.):
 - Issue Identification
 - Change Proposal.
 
-Admin Volunteer:
+Admin Volunteer: (Talk to a Workspace Staff member if you are interested in becoming an Admin Volunteer)
 - Issue Triage
 - Change Proposal Review 
 
