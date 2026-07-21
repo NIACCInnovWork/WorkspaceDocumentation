@@ -97,3 +97,99 @@ This [Issues](#issue)/[Pull Request](#pull-request) has been resolved/dealt with
     Issues author did not clearly defined what their issue actually was/did not respond when asked for clarification.
 ### Open 
 This [Issues](#issue)/[Pull Request](#pull-request) is still active.
+
+## Workflows
+There are 4 main workflows/roles that shepherd a proposal/issues into released documentation.
+
+Normal Volunteer (you unless you have been specificity told otherwise.):
+- Issue Identification
+- Change Proposal.
+
+Admin Volunteer:
+- Issue Triage
+- Change Proposal Review 
+
+Workspace Staff:
+- Final Change Proposal Review.
+
+### Issue Identification 
+> Something is not as it should be. Document it so we can start to address it.
+
+There are two main types of issues.
+- Bug fixes (something is outdated or wrong.)
+- Feature requires (It would be really neat if we could do X)
+
+Steps:
+- See something that is wrong or think of a new feature
+- Open the [Issues page](https://github.com/NIACCInnovWork/WorkspaceDocumentation/issues) of the repository
+- Click on the **New Issue** button
+- Fill out the issue.
+    See [key terms issue](#issue) for what makes a well written issue. (Note well written issues tend to be easier to resolve and therefore get resolved faster.)
+- Click the **Create** button
+- Respond to any clarifying questions.
+    Questions may come up when the issue gets triaged/worked on. If that happens you will get an email. Your answer should be added as a comment on the issue. 
+
+### Issue Triage
+Process the issue. Get clarification and ask the tough questions.
+
+Steps:
+- Is there any necessary information that is missing from the issue? 
+    If so leave a comment asking for clarification.
+- Is this something that should be done?
+    If any of the following are true:
+    - It is a bad idea,
+    - There is some reason it can't be done,
+    - It is not in line with the workspaces mission statement
+    Then add a comment explaining your reasoning and close the issue as **Won't Fix**
+- Is this something that would be good to do, but we don't have time at the moment?
+    Tag with TODO: (figure out what the tag name should be.) Planed waiting for resources or something like that.
+- Who should do this?
+    Assign the issues to whoever has the requisite knowledge, skills and/or time.
+
+### Development
+Implementing the change.
+
+- You are assigned an issue.
+- Read the issues.
+    - If you need clarification add a comment, the issue author will be email.
+- Create a branch
+    From the Issue page click "create a branch".
+- Open your branch.
+    There are multiple ways of opening a branch.
+    - From the homepage -> click the **Branches** button -> click on the branch you want to open.
+    - From the Issue Page -> In the side panel under Development click the branch name.
+    - From a file -> Locate the filepath. Immediately left of that is the branch name. -> Click on the current branch A dropdown menu will appear. -> Select the branch you want.
+- Edit the files.
+    Click the edit this file button.
+- Commit (save) your changes
+    Click the **Commit Changes** button. 
+    Add a brief description of the change and optionally why you did it.
+    "Fix Typo" is a fine commit message. 
+- Open a pull requests.
+    Once you are happy with your modifications open up a pull request.
+    This signals that you are ready for someone to review your changes.
+- Respond to and fix any issues that the reviewer finds.
+- Request re-review
+    When you have made the requested changes hover over the reviewers name and click "Request Re-Review"
+
+### Change Proposal Review 
+- You are assigned a Pull Request to review. (You will get an email.)
+- Click on the Pull Requests tab then click on the Pull Request you were assigned.
+- Read though any existing conversation.
+- Click on the "Files Changed" tab.
+- Read though the proposed change.
+- If you find an issue
+    - Hover over the problematic line.
+    - Click on the blue "+".
+    - Leave your comment
+    - Click ***"Start a review"*** If you do this the developer will get one email after you are done with your review. If you hit Comment they will get an email per comment. (which is annoying)
+- Finish your review. 
+    - Click the Finish your review button (upper right hand of the screen)
+    - If there were no issues click approve.
+    - If there were issues click request changes.
+
+### Change Proposal Review 
+If you are the final reviewer go through the normal review process and then 
+- Merge the branch
+- Delete the branch
+- Close the Pull Request and associated Issues. (GitHub Tryies to do this automatically but sometimes you need to step in and correct things.)
