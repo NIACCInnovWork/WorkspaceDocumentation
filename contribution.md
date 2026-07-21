@@ -71,7 +71,7 @@ You are not allowed to edit main directly, instead you must make a new branch an
 ### Pull Request
 >Pretty pretty please accept my changes into main (the canonical released documentation).
 >
->--Pull Request Author
+>–Pull Request Author
 
 Opening a pull request is saying please accept my changes into your branch (normally the main branch).
 The changes are then reviewed, errors identified and sent back to the original author for them to fix.
