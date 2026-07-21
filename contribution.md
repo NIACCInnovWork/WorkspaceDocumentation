@@ -105,15 +105,21 @@ This [Issues](#issue)/[Pull Request](#pull-request) is still active.
 ## Workflows
 There are 4 main workflows/roles that shepherd a proposal/issues into released documentation.
 
-Normal Volunteer (you unless you have been specificity told otherwise.):
+### Roles
+
+#### Normal Volunteer
+You, unless you have been specificity told otherwise.
+
 - Issue Identification
 - Change Proposal.
 
-Admin Volunteer: (Talk to a Workspace Staff member if you are interested in becoming an Admin Volunteer)
+#### Admin Volunteer
+Talk to a Workspace Staff member if you are interested in becoming an Admin Volunteer
+
 - Issue Triage
 - Change Proposal Review 
 
-Workspace Staff:
+#### Workspace Staff
 - Final Change Proposal Review.
 
 ### Issue Identification 
