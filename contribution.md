@@ -166,13 +166,13 @@ Implementing the change.
 - Read the issues.
     - If you need clarification add a comment, the issue author will be email.
 - Create a branch
-    From the Issue page click "create a branch".
-- Open your branch.
+    - From the Issue page click "create a branch".
+- Open your branch. \
     There are multiple ways of opening a branch.
     - From the homepage -> click the **Branches** button -> click on the branch you want to open.
     - From the Issue Page -> In the side panel under Development click the branch name.
-    - From a file -> Locate the filepath. Immediately left of that is the branch name. -> Click on the current branch A dropdown menu will appear. -> Select the branch you want.
-- Edit the files.
+    - From a file -> Locate the filepath. Immediately left of that is the branch name. -> Click on the current branch, a dropdown menu will appear. -> Select the branch you want.
+- Edit the files. \
     Click the edit this file button.
 - Commit (save) your changes
     Click the **Commit Changes** button. 
@@ -202,7 +202,7 @@ Implementing the change.
     - If there were issues click request changes.
 
 ### Change Proposal Review 
-If you are the final reviewer go through the normal review process and then 
+If you are the final reviewer (Workspace staff) go through the normal review process and then 
 
 - Merge the branch
 - Delete the branch
