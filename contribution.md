@@ -130,6 +130,7 @@ There are two main types of issues.
 - Feature requires (It would be really neat if we could do X)
 
 Steps:
+
 - See something that is wrong or think of a new feature
 - Open the [Issues page](https://github.com/NIACCInnovWork/WorkspaceDocumentation/issues) of the repository
 - Click on the **New Issue** button
@@ -143,6 +144,7 @@ Steps:
 Process the issue. Get clarification and ask the tough questions.
 
 Steps:
+
 - Is there any necessary information that is missing from the issue? 
     If so leave a comment asking for clarification.
 - Is this something that should be done?
@@ -200,6 +202,7 @@ Implementing the change.
 
 ### Change Proposal Review 
 If you are the final reviewer go through the normal review process and then 
+
 - Merge the branch
 - Delete the branch
 - Close the Pull Request and associated Issues. (GitHub Tryies to do this automatically but sometimes you need to step in and correct things.)
