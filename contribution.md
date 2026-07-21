@@ -146,17 +146,18 @@ Process the issue. Get clarification and ask the tough questions.
 Steps:
 
 - Is there any necessary information that is missing from the issue? 
-    If so leave a comment asking for clarification.
+    - If so leave a comment asking for clarification.
 - Is this something that should be done?
     If any of the following are true:
     - It is a bad idea,
     - There is some reason it can't be done,
     - It is not in line with the workspaces mission statement
+
     Then add a comment explaining your reasoning and close the issue as **Won't Fix**
 - Is this something that would be good to do, but we don't have time at the moment?
-    Tag with TODO: (figure out what the tag name should be.) Planed waiting for resources or something like that.
+    - Tag the Issue **Planned**
 - Who should do this?
-    Assign the issues to whoever has the requisite knowledge, skills and/or time.
+    - Assign the issues to whoever has the requisite knowledge, skills and/or time.
 
 ### Development
 Implementing the change.
