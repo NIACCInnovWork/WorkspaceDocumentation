@@ -69,7 +69,7 @@ An issues is not considered fixed until it is fixed in main.
 You are not allowed to edit main directly, instead you must make a new branch and make your changes there.
 
 ### Pull Request
->Pretty pretty please accept my changes into main (the canonical released documentation).
+>"Pretty pretty please accept my changes into main" (the canonical released documentation).
 >
 >–Pull Request Author
 
@@ -78,23 +78,27 @@ The changes are then reviewed, errors identified and sent back to the original a
 
 Pull requests track discussion and comments **about the work in progress**.
 (NOTE: you can open a draft pull request to say "I would like to start getting feed back, but this is not yet ready for release".)
+
 ### Commit
-A save point. If you need more then that come talk to me (Jacob Riesen) you are probably stepping into the advanced rabbit hole and have not yet realized that.
+A save point. If you need more then that come talk to me (Jacob Riesen). You are probably stepping into the advanced rabbit hole and have not yet realized that.
+
 ### Closed
 This [Issues](#issue)/[Pull Request](#pull-request) has been resolved/dealt with. Common reasons for closing something include:
+
 - Fixed
 - Duplicate
-    Link to what it is a duplicate of. 
-    Example: Five people opening issues about the same typo.
+    - Link to what it is a duplicate of. 
+    - Example: Five people opening issues about the same typo.
 - Won't Fix / Invalid
-    List reason for why it is not done.
-    Examples: Not in line with Workspace goals/mission statement. Not worth the time/money required to implement.
+    - List reason for why it is not done.
+    - Examples: Not in line with Workspace goals/mission statement. Not worth the time/money required to implement.
 - Stale/Abandoned
-    Example: Someone started a pull request 2 years ago but it stalled out or the author lost interest.
-    In this case I would close the pull request as stale and reassign the associated issue to someone else.
+    - Example: Someone started a pull request 2 years ago but it stalled out or the author lost interest.
+    - In this case I would close the pull request as stale and reassign the associated issue to someone else.
 - Could not reproduce
-- Unclear issues
-    Issues author did not clearly defined what their issue actually was/did not respond when asked for clarification.
+- Unclear issues 
+    - Issues author did not clearly defined what their issue actually was/did not respond when asked for clarification.
+
 ### Open 
 This [Issues](#issue)/[Pull Request](#pull-request) is still active.
 
