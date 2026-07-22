@@ -172,18 +172,18 @@ Implementing the change.
     - From the homepage -> click the **Branches** button -> click on the branch you want to open.
     - From the Issue Page -> In the side panel under Development click the branch name.
     - From a file -> Locate the filepath. Immediately left of that is the branch name. -> Click on the current branch, a dropdown menu will appear. -> Select the branch you want.
-1) Edit the files. \
-    Click the edit this file button.
+1) Edit the files. 
+    - Click the edit this file button.
 1) Commit (save) your changes
     Click the **Commit Changes** button. 
     Add a brief description of the change and optionally why you did it.
     "Fix Typo" is a fine commit message. 
 1) Open a pull requests.
-    Once you are happy with your modifications open up a pull request.
+    - Once you are happy with your modifications open up a pull request.
     This signals that you are ready for someone to review your changes.
 1) Respond to and fix any issues that the reviewer finds.
 1) Request re-review
-    When you have made the requested changes hover over the reviewers name and click "Request Re-Review"
+    - When you have made the requested changes hover over the reviewers name and click "Request Re-Review"
 
 ### Change Proposal Review 
 1) You are assigned a Pull Request to review. (You will get an email.)
