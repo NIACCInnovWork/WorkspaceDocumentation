@@ -197,9 +197,9 @@ Implementing the change.
     1) Leave your comment
     1) Click ***"Start a review"*** If you do this the developer will get one email after you are done with your review. If you hit Comment they will get an email per comment. (which is annoying)
 1) Finish your review. 
-    - Click the Finish your review button (upper right hand of the screen)
-    - If there were no issues click approve.
-    - If there were issues click request changes.
+    1) Click the Finish your review button (upper right hand of the screen)
+    1) If there were no issues click approve.
+    1) If there were issues click request changes.
 
 ### Change Proposal Review 
 If you are the final reviewer (Workspace staff) go through the normal review process and then 
