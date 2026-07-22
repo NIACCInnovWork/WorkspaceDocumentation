@@ -107,13 +107,13 @@ There are 4 main workflows/roles that shepherd a proposal/issues into released d
 
 ### Roles
 
-#### Normal Volunteer
+#### Contributor
 You, unless you have been specificity told otherwise.
 
 - Issue Identification
 - Change Proposal.
 
-#### Admin Volunteer
+#### Reviewer
 Talk to a Workspace Staff member if you are interested in becoming an Admin Volunteer
 
 - Issue Triage
