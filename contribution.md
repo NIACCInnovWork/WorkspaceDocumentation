@@ -8,6 +8,7 @@ There are many ways of helping out for example:
 - Documenting project tutorials 
 - Help write trainings 
 - Help review trainings
+
 ## Documentation Initiate Goals
 - Provide high quality documentation for our members.
 - Encourage sense of community ownership (creating opportunities for people to contribute to the space.)
@@ -15,6 +16,7 @@ There are many ways of helping out for example:
     - It should be easy to fix typos, confusing wording, outdated/deprecated procedures.
     The Makerspace is a living dynamic place with new things being added/created all the time. 
     This requires our documentation to be equally accommodating to change.
+
 ## Key Technologies
 ### Markdown
 Markdown is a simple file format. The raw file format only contains text (no formatting).
@@ -36,6 +38,7 @@ Git allows us to:
 - Track work that needs to be done (Issues) 
 - Track work in progress (Pull requests)
 - Hosts the content online in a publicly accessible place.
+
 ## Key Terms
 ### Issue
 **A description of a problem.**
@@ -66,31 +69,141 @@ An issues is not considered fixed until it is fixed in main.
 You are not allowed to edit main directly, instead you must make a new branch and make your changes there.
 
 ### Pull Request
->Pretty pretty please accept my changes into main (the canonical released documentation).
+>"Pretty pretty please accept my changes into main" (the canonical released documentation).
 >
->--Pull Request Author
+>–Pull Request Author
 
 Opening a pull request is saying please accept my changes into your branch (normally the main branch).
 The changes are then reviewed, errors identified and sent back to the original author for them to fix.
 
 Pull requests track discussion and comments **about the work in progress**.
 (NOTE: you can open a draft pull request to say "I would like to start getting feed back, but this is not yet ready for release".)
+
 ### Commit
-A save point. If you need more then that come talk to me (Jacob Riesen) you are probably stepping into the advanced rabbit hole and have not yet realized that.
+A save point. If you need more then that come talk to me (Jacob Riesen). You are probably stepping into the advanced rabbit hole and have not yet realized that.
+
 ### Closed
 This [Issues](#issue)/[Pull Request](#pull-request) has been resolved/dealt with. Common reasons for closing something include:
+
 - Fixed
 - Duplicate
-    Link to what it is a duplicate of. 
-    Example: Five people opening issues about the same typo.
+    - Link to what it is a duplicate of. 
+    - Example: Five people opening issues about the same typo.
 - Won't Fix / Invalid
-    List reason for why it is not done.
-    Examples: Not in line with Workspace goals/mission statement. Not worth the time/money required to implement.
+    - List reason for why it is not done.
+    - Examples: Not in line with Workspace goals/mission statement. Not worth the time/money required to implement.
 - Stale/Abandoned
-    Example: Someone started a pull request 2 years ago but it stalled out or the author lost interest.
-    In this case I would close the pull request as stale and reassign the associated issue to someone else.
+    - Example: Someone started a pull request 2 years ago but it stalled out or the author lost interest.
+    - In this case I would close the pull request as stale and reassign the associated issue to someone else.
 - Could not reproduce
-- Unclear issues
-    Issues author did not clearly defined what their issue actually was/did not respond when asked for clarification.
+- Unclear issues 
+    - Issues author did not clearly defined what their issue actually was/did not respond when asked for clarification.
+
 ### Open 
 This [Issues](#issue)/[Pull Request](#pull-request) is still active.
+
+## Workflows
+There are 4 main workflows/roles that shepherd a proposal/issues into released documentation.
+
+### Roles
+
+#### Contributor
+You, unless you have been specificity told otherwise.
+
+- Issue Identification
+- Change Proposal.
+
+#### Reviewer
+Talk to a Workspace Staff member if you are interested in becoming an Admin Volunteer
+
+- Issue Triage
+- Change Proposal Review 
+
+#### Workspace Staff
+- Final Change Proposal Review.
+
+### Issue Identification 
+> Something is not as it should be. Document it so we can start to address it.
+
+There are two main types of issues.
+- Bug fixes (something is outdated or wrong.)
+- Feature requires (It would be really neat if we could do X)
+
+Steps:
+
+1) See something that is wrong or think of a new feature
+1) Open the [Issues page](https://github.com/NIACCInnovWork/WorkspaceDocumentation/issues) of the repository
+1) Click on the **New Issue** button
+1) Fill out the issue.
+    - See [key terms issue](#issue) for what makes a well written issue. (Note well written issues tend to be easier to resolve and therefore get resolved faster.)
+1) Click the **Create** button
+1) Respond to any clarifying questions.
+    Questions may come up when the issue gets triaged/worked on. If that happens you will get an email. Your answer should be added as a comment on the issue. 
+
+### Issue Triage
+Process the issue. Get clarification and ask the tough questions.
+
+Steps:
+
+1) Is there any necessary information that is missing from the issue? 
+    - If so leave a comment asking for clarification.
+1) Is this something that should be done?
+    If any of the following are true:
+    - It is a bad idea,
+    - There is some reason it can't be done,
+    - It is not in line with the workspaces mission statement
+
+    Then add a comment explaining your reasoning and close the issue as **Won't Fix**
+1) Is this something that would be good to do, but we don't have time at the moment?
+    - Tag the Issue **Planned**
+1) Who should do this?
+    - Assign the issues to whoever has the requisite knowledge, skills and/or time.
+
+### Development
+Implementing the change.
+
+1) You are assigned an issue.
+1) Read the issues.
+    - If you need clarification add a comment, the issue author will be email.
+1) Create a branch
+    - From the Issue page click "create a branch".
+1) Open your branch. \
+    There are multiple ways of opening a branch.
+    - From the homepage -> click the **Branches** button -> click on the branch you want to open.
+    - From the Issue Page -> In the side panel under Development click the branch name.
+    - From a file -> Locate the filepath. Immediately left of that is the branch name. -> Click on the current branch, a dropdown menu will appear. -> Select the branch you want.
+1) Edit the files. 
+    - Click the edit this file button.
+1) Commit (save) your changes
+    Click the **Commit Changes** button. 
+    Add a brief description of the change and optionally why you did it.
+    "Fix Typo" is a fine commit message. 
+1) Open a pull requests.
+    - Once you are happy with your modifications open up a pull request.
+    This signals that you are ready for someone to review your changes.
+1) Respond to and fix any issues that the reviewer finds.
+1) Request re-review
+    - When you have made the requested changes hover over the reviewers name and click "Request Re-Review"
+
+### Change Proposal Review 
+1) You are assigned a Pull Request to review. (You will get an email.)
+1) Click on the Pull Requests tab then click on the Pull Request you were assigned.
+1) Read though any existing conversation.
+1) Click on the "Files Changed" tab.
+1) Read though the proposed change.
+1) If you find an issue
+    1) Hover over the problematic line.
+    1) Click on the blue "+".
+    1) Leave your comment
+    1) Click ***"Start a review"*** If you do this the developer will get one email after you are done with your review. If you hit Comment they will get an email per comment. (which is annoying)
+1) Finish your review. 
+    1) Click the Finish your review button (upper right hand of the screen)
+    1) If there were no issues click approve.
+    1) If there were issues click request changes.
+
+### Change Proposal Review 
+If you are the final reviewer (Workspace staff) go through the normal review process and then 
+
+1) Merge the branch
+1) Delete the branch
+1) Close the Pull Request and associated Issues. (GitHub Tryies to do this automatically but sometimes you need to step in and correct things.)
