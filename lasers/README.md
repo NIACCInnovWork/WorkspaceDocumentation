@@ -17,7 +17,7 @@ Visit the Epilog Fusion Pro Profile for more details.
 
 ## General Safety
 The laser cutters in the NIACC Innovation Workspace are powerful tools and, consequently, they have several dangers.
-- Always check the [Laser_Materials.md]() list.
+- Always check the [Laser Materials](./Laser_Materials.md) list.
   - Some materials are toxic or messy and are banned. You always want to check.
   - Each laser can only cut through certian thicknesses, helps your project be successful.
 - Always turn on the ventilation for the laser.
